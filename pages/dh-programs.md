@@ -211,6 +211,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Minor in Digital Humanities](https://unfdhi.org/minor-in-digital-humanities/), University of North Florida, USA
 - [Digital Humanities Minor](https://english.uoregon.edu/undergraduate/major-minor-requirements/digital-humanities-minor), University of Oregon, USA
 - [Digital Humanities Minor](https://pricelab.sas.upenn.edu/education/digital-humanities-minor), University of Pennsylvania, USA
+- [Digital Humanities Minor](https://artsci.calendar.utoronto.ca/program/asmin1337), University of Toronto, Canada
 - [Digital and Public Humanities Emphasis](http://catalog.uwgb.edu/undergraduate/programs/humanistic-studies/major/digital-public-humanities/), University of Wisconsin \- Green Bay, USA
 - [Minor in Data Science in the Humanities](http://iph.wustl.edu/minor-data-science-humanities), Washington University in St. Louis, USA
 - [Digital Humanities Minor](https://wheatoncollege.edu/academics/programs/digital-humanities/), Wheaton College, USA
